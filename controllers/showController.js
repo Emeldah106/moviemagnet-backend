@@ -2,7 +2,7 @@
 import axios from "axios";
 import Show from "../models/Show.js";
 import { inngest } from "../inngest/index.js";
-import Movie from "../models/movie.js";
+import Movie from "../models/Movie.js";
 
 
 //API to get now plaing movies from TNDB API 
